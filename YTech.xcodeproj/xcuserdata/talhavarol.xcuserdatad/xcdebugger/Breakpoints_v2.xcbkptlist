@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84A2C76C-0D60-4AFE-9C01-39A1AF0DD347"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0830ECF5-C906-43EA-A1FA-6915FE977D5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "configureFirstTableView(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0830ECF5-C906-43EA-A1FA-6915FE977D5B - 4819edf0ea7a7a4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.configureFirstTableView(model: YTech.ContetResult) -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2160">
+               </Location>
+               <Location
+                  uuid = "0830ECF5-C906-43EA-A1FA-6915FE977D5B - 4819edf0ea7a7a4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.configureFirstTableView(model: YTech.ContetResult) -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2904">
+               </Location>
+               <Location
+                  uuid = "0830ECF5-C906-43EA-A1FA-6915FE977D5B - 4819edf0ea7a7a4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.configureFirstTableView(model: YTech.ContetResult) -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2888">
+               </Location>
+               <Location
+                  uuid = "0830ECF5-C906-43EA-A1FA-6915FE977D5B - 4819edf0ea7a7aab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.configureFirstTableView(model: YTech.ContetResult) -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "3132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72F4B3F1-8D14-410E-BE4C-C85165928A21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "openDeliveryLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72F4B3F1-8D14-410E-BE4C-C85165928A21 - 4819edf0ea7a7975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.configureFirstTableView(model: YTech.ContetResult) -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "3900">
+               </Location>
+               <Location
+                  uuid = "72F4B3F1-8D14-410E-BE4C-C85165928A21 - 2f9c1821d1064e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "72F4B3F1-8D14-410E-BE4C-C85165928A21 - 2f9c1821d1064e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "openDeliveryLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 4819edf0ea7a7975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.configureFirstTableView(model: YTech.ContetResult) -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "3900">
+               </Location>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 2f9c1821d1064e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 2f9c1821d1064e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 2f9c1821d1064e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 2f9c1821d1064e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 2f9c1821d1064e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "B1FBD314-F2DC-49F4-A6D9-595B4B5EE0C3 - 2f9c1821d1064e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YTech.CustomTableViewCell.openDeliveryLocation() -&gt; ()"
+                  moduleName = "YTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/YTech/YTech/Scenes/ActiveOrdersController/Cell/CustomTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
